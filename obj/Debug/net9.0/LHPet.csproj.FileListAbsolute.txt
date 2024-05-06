@@ -1,0 +1,182 @@
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\bin\Debug\net9.0\appsettings.json
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\bin\Debug\net9.0\LHPet.staticwebassets.runtime.json
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\bin\Debug\net9.0\LHPet.exe
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\bin\Debug\net9.0\LHPet.deps.json
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\bin\Debug\net9.0\LHPet.runtimeconfig.json
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\bin\Debug\net9.0\LHPet.dll
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\bin\Debug\net9.0\LHPet.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\LHPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\LHPet.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\LHPet.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\LHPet.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\LHPet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\LHPet.RazorAssemblyInfo.cache
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\LHPet.RazorAssemblyInfo.cs
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\staticwebassets\msbuild.LHPet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\staticwebassets\msbuild.build.LHPet.props
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.LHPet.props
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.LHPet.props
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\scopedcss\bundle\LHPet.styles.css
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\scopedcss\projectbundle\LHPet.bundle.scp.css
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\jiydohab4f.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\mvflx0ni08.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\yizhcrz57k.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\h5myjb19ix.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\jk50nxh4jp.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\38icjhoj5r.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\3kvr9nj8sv.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\dqwwsl5r3j.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\xo69o0kayr.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\k16h0trjb1.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\1hcrq29t70.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\fvhqornarf.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\u4j95xot42.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\ftxuo0hbrs.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\ndun6iknjr.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\7cuiwqw0h5.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\fmu8wsp4b4.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\yo8cgf3s7h.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\rtxakmups5.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\0l1c7x396h.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\5qiokjbt1p.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\j6btj55hix.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\doud2u9obw.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\l1m4as1jpn.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\vvjp2hye3r.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\7aw5qrp7ly.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\gzpd5xft4a.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\7g1etbb0e1.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\dj6pgvv25u.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\0ggz5k7wht.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\3tgq95rg3i.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\8n06ml1n67.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\gctybiyfuj.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\3w6ft80oxa.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\qt7f34huy0.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\ne71yfu24m.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\ttmlo0kl5d.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\5vmhavmwgb.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\obucxdges3.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\8z5flxwmbw.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\5vkrpzc4w6.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\bqtzsk8rtn.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\yeht117zt4.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\3eeg65zdj0.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\yk87p9a1t6.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\y72re8x72l.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\zjwg2kolx0.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\b1skxqxpck.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\pbbdblpvoj.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\6y1a69nlr0.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\ctlxosq7b2.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\yj10cu4f1s.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\rzjjk0kibg.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\arusomozbi.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\5owg1vi7rj.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\z295q4ajer.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\x1yjf0jbyo.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\38kcaiwzwp.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\q8nkfg9hco.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\gie7rps7n5.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\compressed\mynmtlpvrd.gz
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\LHPet.dll
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\refint\LHPet.dll
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\LHPet.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\LHPet.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Área de Trabalho\atividade-senai\LHPet\obj\Debug\net9.0\ref\LHPet.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\bin\Debug\net9.0\appsettings.json
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\bin\Debug\net9.0\LHPet.staticwebassets.runtime.json
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\bin\Debug\net9.0\LHPet.exe
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\bin\Debug\net9.0\LHPet.deps.json
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\bin\Debug\net9.0\LHPet.runtimeconfig.json
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\bin\Debug\net9.0\LHPet.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\bin\Debug\net9.0\LHPet.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\LHPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\LHPet.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\LHPet.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\LHPet.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\LHPet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\LHPet.RazorAssemblyInfo.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\LHPet.RazorAssemblyInfo.cs
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\staticwebassets\msbuild.LHPet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\staticwebassets\msbuild.build.LHPet.props
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.LHPet.props
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.LHPet.props
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\scopedcss\bundle\LHPet.styles.css
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\scopedcss\projectbundle\LHPet.bundle.scp.css
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\jiydohab4f.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\mvflx0ni08.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\yizhcrz57k.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\h5myjb19ix.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\jk50nxh4jp.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\38icjhoj5r.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\3kvr9nj8sv.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\dqwwsl5r3j.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\xo69o0kayr.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\k16h0trjb1.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\1hcrq29t70.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\fvhqornarf.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\u4j95xot42.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\ftxuo0hbrs.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\ndun6iknjr.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\7cuiwqw0h5.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\fmu8wsp4b4.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\yo8cgf3s7h.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\rtxakmups5.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\0l1c7x396h.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\5qiokjbt1p.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\j6btj55hix.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\doud2u9obw.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\l1m4as1jpn.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\vvjp2hye3r.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\7aw5qrp7ly.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\gzpd5xft4a.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\7g1etbb0e1.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\dj6pgvv25u.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\0ggz5k7wht.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\3tgq95rg3i.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\8n06ml1n67.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\gctybiyfuj.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\3w6ft80oxa.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\qt7f34huy0.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\ne71yfu24m.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\ttmlo0kl5d.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\5vmhavmwgb.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\obucxdges3.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\8z5flxwmbw.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\5vkrpzc4w6.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\bqtzsk8rtn.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\yeht117zt4.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\3eeg65zdj0.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\yk87p9a1t6.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\y72re8x72l.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\zjwg2kolx0.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\b1skxqxpck.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\pbbdblpvoj.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\6y1a69nlr0.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\ctlxosq7b2.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\yj10cu4f1s.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\rzjjk0kibg.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\arusomozbi.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\5owg1vi7rj.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\z295q4ajer.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\x1yjf0jbyo.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\38kcaiwzwp.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\q8nkfg9hco.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\ut6rxa6s8o.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\compressed\5vu1rzx3ar.gz
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\LHPet.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\refint\LHPet.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\LHPet.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\LHPet.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\LHPet\obj\Debug\net9.0\ref\LHPet.dll
